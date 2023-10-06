@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">facebook Loginclone</string>
+    <string name="mobile_number_or_email">Mobile number or email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="meta">Meta</string>
+    <string name="logout">Logout</string>
+</resources>
